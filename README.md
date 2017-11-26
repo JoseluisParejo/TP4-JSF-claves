@@ -8,5 +8,5 @@ Necesitamos un servidor web (Como apache2), tener instalado maven para la ejecuc
 
 1.- Primero necesitamos hacer un git clone de este proyecto. <br>
 2.- Luego necesitamos tener maven instalado, luego de eso vamos a la consola y ejecutamos: *mvn jetty:run* <br>
-3.- Luego dentro del navegador introducimos lo siguiente: localhost:9999 
+3.- Luego dentro del navegador introducimos lo siguiente: localhost:9999 <br>
 4.- Con ello lanzaremos la aplicacion
